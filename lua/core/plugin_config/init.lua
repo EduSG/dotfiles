@@ -1,4 +1,4 @@
---require("core.plugin_config.colorscheme")
+require("core.plugin_config.colorscheme")
 --require("core.plugin_config.colorsrv")
 --require("core.plugin_config.gruvbox")
 --require("core.plugin_config.ayu")
